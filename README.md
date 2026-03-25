@@ -28,7 +28,7 @@ The goal of this project is to analyze real network traffic and understand how c
 
 
 * Captured a DNS AAAA query for ICdn-locator.apple.com
-* Verified the Transaction ID (0x1536)to match requests with corresponding responses.
+* Verified the Transaction ID (0x1536) to match requests with corresponding responses.
 * Confirmed the use of IPv6 addressing through the AAAA record type.
 * This demonstrates my ability to monitor network resolution processes and verify traffic integrity.
 
